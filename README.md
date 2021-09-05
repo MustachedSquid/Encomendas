@@ -1,5 +1,3 @@
-# Encomenda
-Projeto desenvolvido para registar encomendas, cálculo de valores e quantidades diárias num fabrico de doces regionais.
+Projeto desenvolvido para registar encomendas, para calcular os valores e as quantidades diárias, num fabrico de doces regionais.
 
-Desenvolvido em PHPStorm
-Linguagens HTML, CSS, Typescript, PHP, MySQL.
+Desenvolvido em HTML, CSS, PHP e Typescript.
